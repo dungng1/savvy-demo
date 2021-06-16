@@ -1,4 +1,4 @@
-package config;
+package core;
 
 import io.qameta.allure.restassured.AllureRestAssured;
 import io.restassured.config.HeaderConfig;
